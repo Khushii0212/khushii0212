@@ -96,14 +96,21 @@
 
 ## ✨ Quote
 
+
+<h3 align="center">
+💻 Code. Learn. Build. Repeat. 🚀
+</h3>
+
 <p align="center">
-<"Code. Learn. Build. Repeat."/>
+Passionate about building impactful software with clean code, modern technologies, and continuous learning.
 </p>
 
----
+<br>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=khushii0212&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=khushii0212&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+<h2 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h2>
